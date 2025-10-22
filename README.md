@@ -1,4 +1,4 @@
-## Llama3.1_8B_pricer Model Access
+## Llama3.1_8B_pricer
 
 The fine-tuned model **`Llama3.1_8B_pricer-2025-10-22_00.05.08`** is publicly available on the [my Hugging Face Hub](https://huggingface.co/franzyellow/llama3.1_8B_pricer-2025-10-22_00.05.08).
 
