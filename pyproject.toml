@@ -7,7 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.10.1",
     "bitsandbytes>=0.48.1",
-    "datasets>=4.2.0",
+    "datasets==3.6.0",
+    "matplotlib>=3.10.7",
     "peft>=0.17.1",
     "python-dotenv>=1.1.1",
     "requests>=2.32.5",
@@ -15,4 +16,6 @@ dependencies = [
     "torchaudio>=2.9.0",
     "torchvision>=0.24.0",
     "transformers>=4.57.1",
+    "trl==0.14.0",
+    "wandb>=0.22.2",
 ]
